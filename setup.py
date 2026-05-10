@@ -20,7 +20,7 @@ setup(name='bbva2pandas',
       scripts=[
           'bin/bbva2pandas',
       ],
-      url='https://github.com/blalop/bbva2pandas',
+      url='https://github.com/ablancolopez/bbva2pandas',
       author='Alejandro Blanco López',
       author_email='alexbl1996@gmail.com',
       license='GPLv3+',

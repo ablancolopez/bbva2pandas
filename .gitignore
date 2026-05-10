@@ -15,6 +15,7 @@ wheels
 reports
 *.csv
 *.db
+*.pdf
 
 # IDE
 .vscode

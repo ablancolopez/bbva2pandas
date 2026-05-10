@@ -34,10 +34,30 @@ usage: bbva2pandas [-h] [--output_filename OUTPUT_FILENAME] directory {csv,sqlit
 bbva2pandas: error: the following arguments are required: directory, output_format
 ```
 
-## Testing
+## Docker
 
-Run
+Build and run with Docker (no local dependencies required):
 
 ```bash
+# Build the image
+make build
+
+# Run on PDFs in the current directory
+make run
+
+# Run tests
+make test
+
+# Or use docker directly:
+docker run --rm -v "$PWD:/data" bbva2pandas /data csv
+```
+
+## Testing
+
+```bash
+# Locally
 python3 -m unittest discover tests
+
+# With Docker
+make test
 ```
