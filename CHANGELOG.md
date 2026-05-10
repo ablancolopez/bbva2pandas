@@ -3,12 +3,15 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a changelog](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased](https://github.com/ablancolopez/bbva2pandas/tree/main)
+
+## [1.2.0](https://github.com/ablancolopez/bbva2pandas/releases/tag/1.2.0) - 2026-05-10
 ### Added
 - Dockerfile, Makefile, dockerized tests and GHCR publishing
+- Publish Docker image to Docker Hub
 ### Changed
-- Python 3.13 as default (Docker), drop 3.10 support
+- Use Python 3.13 as default, drop 3.10 and 3.11 support
 ### Removed
-- Python 3.10 support
+- Python 3.10 and 3.11 support
 
 ## [1.1.3](https://github.com/ablancolopez/bbva2pandas/tree/1.1.3)
 ### Added
