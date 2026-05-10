@@ -4,7 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a ch
 
 ## [Unreleased](https://github.com/ablancolopez/bbva2pandas/tree/main)
 ### Added
-- Dockerfile, Makefile and dockerized tests
+- Dockerfile, Makefile, dockerized tests and GHCR publishing
+### Changed
+- Python 3.13 as default (Docker), drop 3.10 support
+### Removed
+- Python 3.10 support
 
 ## [1.1.3](https://github.com/ablancolopez/bbva2pandas/tree/1.1.3)
 ### Added
