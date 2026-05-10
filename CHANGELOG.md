@@ -13,21 +13,21 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a ch
 ### Removed
 - Python 3.10 and 3.11 support
 
-## [1.1.3](https://github.com/ablancolopez/bbva2pandas/tree/1.1.3)
+## [1.1.3](https://github.com/ablancolopez/bbva2pandas/tree/1.1.3) - 2024-03-24
 ### Added
 - Python 3.11 & 3.12 support
 ### Fixed
 - Fix build on Python 3.12 @amorenoz
 
-## [1.1.2](https://github.com/ablancolopez/bbva2pandas/tree/1.1.2)
+## [1.1.2](https://github.com/ablancolopez/bbva2pandas/tree/1.1.2) - 2022-07-17
 ### Fixed
 - [#8](https://github.com/ablancolopez/bbva2pandas/pull/8) Fixing issue with empty sub-concepts @neugartf
 
-## [1.1.1](https://github.com/ablancolopez/bbva2pandas/tree/1.1.1)
+## [1.1.1](https://github.com/ablancolopez/bbva2pandas/tree/1.1.1) - 2022-07-03
 ### Changed
 - [#6](https://github.com/ablancolopez/bbva2pandas/pull/6) Physical flag for pdftotext
 
-## [1.1.0](https://github.com/ablancolopez/bbva2pandas/tree/1.1.0)
+## [1.1.0](https://github.com/ablancolopez/bbva2pandas/tree/1.1.0) - 2022-01-28
 ### Added
 - Python 3.10 support
 ### Fixed
@@ -36,10 +36,10 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a ch
 - Python 3.7 support
 - Remove Grafana dashboard - use [ablancolopez/bbva2pandas-notebook](https://github.com/ablancolopez/bbva2pandas-notebook) instead
 
-## [1.0.0](https://github.com/ablancolopez/bbva2pandas/tree/1.0.0)
+## [1.0.0](https://github.com/ablancolopez/bbva2pandas/tree/1.0.0) - 2021-09-12
 ### Changed
 - API refactoring
 
-## [0.1.0](https://github.com/ablancolopez/bbva2pandas/tree/0.1.0)
+## [0.1.0](https://github.com/ablancolopez/bbva2pandas/tree/0.1.0) - 2021-09-11
 ### Added
 - Initial release
